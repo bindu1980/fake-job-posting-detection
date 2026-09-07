@@ -56,6 +56,8 @@ git clone https://github.com/your-username/fake-job-posting-detection.git
 cd fake-job-posting-detection](https://github.com/bindu1980/fake-job-posting-detection.git
 ```
 
+```
+
 Install dependencies:
 
 ```bash
