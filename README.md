@@ -58,6 +58,8 @@ cd fake-job-posting-detection](https://github.com/bindu1980/fake-job-posting-det
 
 ```
 
+```
+
 Install dependencies:
 
 ```bash
