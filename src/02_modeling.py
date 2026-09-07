@@ -27,7 +27,7 @@ from sklearn.metrics import (
     roc_auc_score, confusion_matrix, classification_report, RocCurveDisplay
 )
 
-OUT_DIR = r"C:\Users\allad\Downloads\Fake Job Posting Detection\Fake Job Posting Detection\outputs"
+OUT_DIR = r"C:\Users\DUGGU VASAVI\OneDrive\Documents\SI 1\3skills INTERNSHIPpip install scikit"
 RANDOM_STATE = 42
 
 # ---------------------------------------------------------------
